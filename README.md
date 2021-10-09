@@ -10,9 +10,9 @@ Youtube video: https://youtu.be/ucJhibdOwjg
 
 [Screenshots]:
 
-https://media.discordapp.net/attachments/896464402956578857/896492252124295188/unknown.png?width=1417&height=676
-https://media.discordapp.net/attachments/896464402956578857/896492270491160576/unknown.png?width=1440&height=565
-https://media.discordapp.net/attachments/896464402956578857/896492292985196564/unknown.png?width=1432&height=676
+![slika](https://user-images.githubusercontent.com/78621415/136672853-1507bfd4-3e21-49b3-8b49-6b9d36e21fc6.png)
+![slika](https://user-images.githubusercontent.com/78621415/136672859-163cfc04-a0c2-43d3-8d57-99dcffc1281e.png)
+![slika](https://user-images.githubusercontent.com/78621415/136672861-e426a3a5-354d-4851-9147-56d3babbbefb.png)
 
 
 
