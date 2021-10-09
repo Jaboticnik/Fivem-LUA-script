@@ -3,7 +3,6 @@ There is also a preview of it:
 
 [Preview]:
 
-![Advanced Mafia Script|video](upload://kESzTo1NF2R8fiS1EHyvTi2bjmQ.mp4)
 
 Youtube video: https://youtu.be/ucJhibdOwjg
 
@@ -11,23 +10,25 @@ Youtube video: https://youtu.be/ucJhibdOwjg
 
 [Screenshots]:
 
-![slika|690x329](upload://7Qam9t27bbXCop0RD0GPbDWHpfE.jpeg)
-![slika|690x270](upload://lDpQg0iZ6gyas2s95516vNdMNxI.jpeg)
-![slika|690x325](upload://3gSIuUxHOf0jhsBgIBYlWl21TcE.jpeg)
+![slika](https://user-images.githubusercontent.com/78621415/136672853-1507bfd4-3e21-49b3-8b49-6b9d36e21fc6.png)
+![slika](https://user-images.githubusercontent.com/78621415/136672859-163cfc04-a0c2-43d3-8d57-99dcffc1281e.png)
+![slika](https://user-images.githubusercontent.com/78621415/136672861-e426a3a5-354d-4851-9147-56d3babbbefb.png)
+
 
 
 [Requirements]:
 
 MySQL
-EssentialMode Base by @Kanersps: [[Release] EssentialMode base ](https://forum.cfx.re/t/release-essentialmode-base/3665)
-ES Extended (ESX) by @GiZz: [https://github.com/FXServer-ESX/fxserver-es_extended ](https://github.com/FXServer-ESX/fxserver-es_extended)
+EssentialMode Base : [[Release] EssentialMode base ](https://forum.cfx.re/t/release-essentialmode-base/3665)
+ES Extended (ESX) by @GiZz: [[Release] ES EXTENDED ](https://github.com/esx-framework/es_extended)
 
 Auto Mode:
-esx_billing: [https://github.com/FXServer-ESX/fxserver-esx_billing ](https://github.com/FXServer-ESX/fxserver-esx_billing)
+esx_billing: [[Release] Esx Billing ](https://github.com/kompots/esx_billing)
 
 Player management (boss actions and armory with buyable weapons):
-esx_society: [https://github.com/FXServer-ESX/fxserver-esx_society ](https://github.com/FXServer-ESX/fxserver-esx_society)
-esx_datastore: [https://github.com/FXServer-ESX/fxserver-esx_datastore ](https://github.com/FXServer-ESX/fxserver-esx_datastore)
+esx_society: [[Release] Esx_society ](https://github.com/PateDEV/esx_society)
+esx_datastore: [[Release] Esx_datastore ](https://github.com/sesipod/FiveM/tree/master/resources/%5BStart-3%5D/esx_datastore)
+esx_addoninventory: [[Release]Add on inventory](https://github.com/extendedmode/esx_addoninventory)
 
 [Features]:
 
@@ -41,15 +42,12 @@ esx_datastore: [https://github.com/FXServer-ESX/fxserver-esx_datastore ](https:/
 
 [Installation]:
 
-1. Download files (folder) from github ().
+1. Download files (folder) from github (https://github.com/Jaboticnik/Mafiavolta).
 2. Put folder esx_mafiavolta to your resources folder.
 3. Import sql.sql into your MySQL database.
 3.a Edit Config.lua file (IF YOU CHANGE VEHICLES, YOU ALSO HAVE TO CHANGE AUTHORIZED VEHICLES FOR VEHICLE DELETER. SEARCH FOR: police_vehicles  in client/main.lua and replace vehicle spawn codes with new ones)
 4. Add this to your server.cfg “start esx_mafiavolta”
 
 
-
-[Additional Information]
-For any and all support please visit the ESX Discord: [https://discord.gg/3b3N8Ut ](https://discord.gg/3b3N8Ut) as I do not provide support and have been away from quite some time.
-
-There are more plugins available which you can view at: [https://github.com/FXServer-ESX ](https://github.com/FXServer-ESX)
+Hope you like it.
+Download: https://github.com/Jaboticnik/Mafiavolta
