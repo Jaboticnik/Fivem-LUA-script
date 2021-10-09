@@ -3,7 +3,6 @@ There is also a preview of it:
 
 [Preview]:
 
-![Advanced Mafia Script|video](upload://kESzTo1NF2R8fiS1EHyvTi2bjmQ.mp4)
 
 Youtube video: https://youtu.be/ucJhibdOwjg
 
@@ -11,9 +10,10 @@ Youtube video: https://youtu.be/ucJhibdOwjg
 
 [Screenshots]:
 
-![slika|690x329](upload://7Qam9t27bbXCop0RD0GPbDWHpfE.jpeg)
-![slika|690x270](upload://lDpQg0iZ6gyas2s95516vNdMNxI.jpeg)
-![slika|690x325](upload://3gSIuUxHOf0jhsBgIBYlWl21TcE.jpeg)
+https://media.discordapp.net/attachments/896464402956578857/896492252124295188/unknown.png?width=1417&height=676
+https://media.discordapp.net/attachments/896464402956578857/896492270491160576/unknown.png?width=1440&height=565
+https://media.discordapp.net/attachments/896464402956578857/896492292985196564/unknown.png?width=1432&height=676
+
 
 
 [Requirements]:
