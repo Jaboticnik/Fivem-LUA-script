@@ -113,7 +113,7 @@ end
 
 local police_vehicles = { 
   'hexer',
-  'caracara',
+  'kamacho',
   'emerus'
 }
 
