@@ -36,7 +36,7 @@ Config.mafiaStations = {
     ---- IF YOU CHANGE VEHICLES, YOU ALSO HAVE TO CHANGE AUTHORIZED VEHICLES FOR VEHICLE DELETER. SEARCH FOR: police_vehicles  in main.lua and replace vehicle spawn codes with new ones.
 	AuthorizedVehicles = {
 	  { name = 'hexer',          label = 'Motorbike' },
-	  { name = 'caracara',     label = 'Caracar off road' },
+	  { name = 'kamacho',     label = 'Kamacho off road' },
 	  { name = 'emerus',         label = 'Emerus Super car' },  
 	  },
 
