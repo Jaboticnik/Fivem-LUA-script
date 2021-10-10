@@ -27,6 +27,10 @@ Locales['de'] = {
   ['put_in_vehicle'] = 'In Fahrzeug setzen',
   ['fine'] = 'Strafe',
   ['no_players_nearby'] = 'Keine Spieler in der Nähe',
+   ['have_deposited'] = 'Sie haben einen Artikel gespeichert!',
+ ['added'] = 'Sie haben einen Artikel gespeichert! ',
+ ['have_withdrawn'] = 'Sie haben einen Artikel gespeichert!',
+ ['quantity_invalid'] = 'ungültige Menge!',
 
   ['vehicle_info'] = 'Fahrzeug Info',
   ['pick_lock'] = 'Fahrzeug öffnen',
