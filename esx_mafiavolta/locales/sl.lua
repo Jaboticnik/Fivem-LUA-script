@@ -54,7 +54,7 @@ Locales['sl'] = {
 
   -- Body Search Menu
 
-  ['confiscate_dirty'] = 'Confiscated black money: $',
+  ['confiscate_dirty'] = 'Zaplenjen umazan denar: $',
   ['guns_label'] = '--- piĹˇtole ---',
   ['confiscate'] = 'Zapleni',
   ['inventory_label'] = '--- stvari ---',
@@ -99,12 +99,5 @@ Locales['sl'] = {
   ['you_have_confweapon'] = 'Zasegel si~y~x1',
   ['confweapon'] = '~s~ ti je zasegel ~y~x1',
   ['alert_police'] = 'Obvestilo Mafija',
-  -- Authorized Vehicles
- 
-  ['police'] = 'patrol vehicle 1',
-  ['police2'] = 'patrol vehicle 2',
-  ['police3'] = 'patrol vehicle 3',
-  ['police4'] = 'civil vehicle',
-  ['policeb'] = 'motorcycle',
-  ['policet'] = 'Transporter',
+
 }
