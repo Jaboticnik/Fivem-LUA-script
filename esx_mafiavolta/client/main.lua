@@ -131,16 +131,16 @@ function VehicleExtrasMenu()
 	}
 	
 	if liveries >= 2 then
-		table.insert(elements, {label = 'Change stickers', value = 'livery_change'})
+		table.insert(elements, {label = 'Change livery', value = 'livery_change'})
 	else
-		table.insert(elements, {label = 'This vehicle has no stickers ...', value = ''})
+		table.insert(elements, {label = 'This vehicle has no liveries ...', value = ''})
 	end
 	
 	if DoesExtraExist(veh, 1) or DoesExtraExist(veh, 0) then
 		table.insert(elements, {label = 'Get all extras', value = 'extrasON'})
 		table.insert(elements, {label = 'Remove all extras', value = 'extrasOFF'})
 	else
-		table.insert(elements, {label = 'To vozilo nima dodatkov...', value = ''})
+		table.insert(elements, {label = 'This vehicle doesnt have extras...', value = ''})
 	end
 	
 
