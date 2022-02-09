@@ -73,6 +73,7 @@ Locales['en'] = {
   ['owner'] = 'owner:',
   -- Weapons Menus
   
+   ['ballas_stock'] = 'Storage',
   ['get_weapon_menu'] = 'Armory - take weapons',
   ['put_weapon_menu'] = 'Armory - Bring Arms',
   ['buy_weapon_menu'] = 'Armory - buy weapons',
