@@ -46,6 +46,7 @@ Locales['en'] = {
  ['added'] = 'You have stored an item!',
  ['have_withdrawn'] = 'You have stored an item!',
  ['quantity_invalid'] = 'Invalid Quantity!',
+ ['quantity'] = 'Quantity',
 
   -- ID Card Menu
 
